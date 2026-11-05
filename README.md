@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Implementing classification fundamentals from first principles to demonstrate transparent model reasoning.
+
 # Wine Classification Using Gradient Descent and Backpropagation
 
 This project applies machine learning techniques to classify wine types using the
